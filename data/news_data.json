@@ -1,3 +1,80 @@
-{}
-
-
+{
+    "2025-12-06": {
+        "summary": "## 오늘의 IT 뉴스룸 📰\n\n### 🔥 핫 키워드 TOP 3 🔥\n\n1.  **AI**: 인공지능 기반 툴킷, 스타트업 투자, 아마존의 AI 야망 등 AI 관련 소식이 연일 쏟아지고 있습니다. 🤖\n2.  **투자/인수**: 엘티씨 CB 전환 완료, AI 스타트업 투자 유치, 넷플릭스의 워너브러더스 인수설 등 투자와 M&A 시장이 활발합니다. 💰\n3.  **개발**: Rust 기반 ML 툴킷, 개발자를 위한 코딩 툴 추천 등 개발 관련 뉴스가 꾸준히 등장하고 있습니다. 🧑‍💻\n\n### 📌 주요 이슈 요약\n\n1.  **AI/ML**:\n    *   Rust로 개발된 사용자 친화적 ML 툴킷 Hodu 등장! 개발 편의성을 높여줄 것으로 기대됩니다. ✨\n    *   AI 기반 스타트업 Aaru, 10억 달러 가치로 시리즈 A 투자 유치 성공! 🚀\n    *   전 구글러가 만든 AI 보조 툴 Yoodli, 기업 가치 3배 증가! 📈\n2.  **비즈니스/산업**:\n    *   넷플릭스, 워너브러더스 인수설! 미디어 산업 지형에 큰 변화가 예상됩니다. 🎬\n    *   엘티씨, CB 전량 전환 완료! 오버행 우려 해소 기대됩니다. ✅\n    *   네이버, 1년 만에 전략 변경! 기획자에게 던지는 메시지는 무엇일까요? 🤔\n3.  **개발/기술**:\n    *   개발자를 위한 바이브 코딩 추천 툴 7가지! 생산성 향상에 도움이 될 만한 정보입니다. 툴 정보는 [여기](https://yozm.wishket.com/magazine/detail/3490)서 확인하세요. 🛠️\n    *   ORM을 사용하면 SQL을 정말 몰라도 될까요? ORM에 대한 흔한 오해와 진실! 💡\n\n### 📈 시장 분위기\n\n전반적으로 AI 관련 투자와 기술 개발이 활발하며, 미디어 산업의 지각 변동 가능성도 엿보이는 등 IT 시장은 **성장과 변화의 소용돌이** 속에 있는 것으로 보입니다. 🌪️\n",
+        "sources": [
+            {
+                "title": "Show GN: Hodu: Rust로 개발된 사용자 친화적 ML 툴킷",
+                "link": "https://news.hada.io/topic?id=24871"
+            },
+            {
+                "title": "BMW PHEV: 안전 퓨즈 교체 비용이 매우 비쌈",
+                "link": "https://news.hada.io/topic?id=24870"
+            },
+            {
+                "title": "미국 오염기업들이 EU의 인권 및 기후법을 다시 쓰고 있다",
+                "link": "https://news.hada.io/topic?id=24869"
+            },
+            {
+                "title": "엘티씨, CB 전량 전환 완료…오버행 우려 해소되나",
+                "link": "https://www.bloter.net/news/articleView.html?idxno=649026"
+            },
+            {
+                "title": "넷플릭스, '헐리우드 명가' 워너브러더스 인수…미디어산업 지형 재편",
+                "link": "https://www.bloter.net/news/articleView.html?idxno=649032"
+            },
+            {
+                "title": "[관가 모니터] 복지부, 의사과학자 전주기 투자…'K-바이오 R&D 인력 재편' 나선다 [현장+]",
+                "link": "https://www.bloter.net/news/articleView.html?idxno=648976"
+            },
+            {
+                "title": "Show GN: Hodu: Rust로 개발된 사용자 친화적 ML 툴킷",
+                "link": "https://news.hada.io/topic?id=24871"
+            },
+            {
+                "title": "BMW PHEV: 안전 퓨즈 교체 비용이 매우 비쌈",
+                "link": "https://news.hada.io/topic?id=24870"
+            },
+            {
+                "title": "미국 오염기업들이 EU의 인권 및 기후법을 다시 쓰고 있다",
+                "link": "https://news.hada.io/topic?id=24869"
+            },
+            {
+                "title": "개발자를 위한 바이브 코딩 추천 툴 7가지",
+                "link": "https://yozm.wishket.com/magazine/detail/3490"
+            },
+            {
+                "title": "ORM 쓰면 정말 SQL 몰라도 되나요?",
+                "link": "https://yozm.wishket.com/magazine/detail/3487"
+            },
+            {
+                "title": "1년 만에 전략 바꾼 네이버: 기획자에게 던지는 메시지는?",
+                "link": "https://yozm.wishket.com/magazine/detail/3486"
+            },
+            {
+                "title": "Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first",
+                "link": "https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/"
+            },
+            {
+                "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
+                "link": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/"
+            },
+            {
+                "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+                "link": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/"
+            },
+            {
+                "title": "Vimeo Promo Codes and Deals: Save Up to 40%",
+                "link": "https://www.wired.com/story/vimeo-promo-code/"
+            },
+            {
+                "title": "WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions",
+                "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/"
+            },
+            {
+                "title": "‘Horses,’ the Most Controversial Game of the Year, Doesn’t Live Up to the Hype",
+                "link": "https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/"
+            }
+        ],
+        "created_at": "2025-12-06 16:35:08.298202"
+    }
+}
