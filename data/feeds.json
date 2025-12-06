@@ -1,3 +1,4 @@
-["https://feeds.feedburner.com/geeknews-feed"]
-
-
+[
+    "https://feeds.feedburner.com/geeknews-feed",
+    "https://www.bloter.net/rss/allArticle.xml"
+]
